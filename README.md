@@ -14,7 +14,7 @@ Data isn't useful until it answers real questions. This dashboard lets anyone go
 
 📸 Screenshots:
 <img width="894" height="505" alt="FinanceDashboard" src="https://github.com/user-attachments/assets/247acee9-2adb-4843-861c-222905e623fe" />
-<img width="457" height="500" alt="WaterFallChart" src="https://github.com/user-attachments/assets/a86d27f6-91a3-468a-8c31-14d92a7056a6" /> <img width="457" height="318" alt="Table" src="https://github.com/user-attachments/assets/5c79b325-671f-4569-b1c2-2b1403d7e12f" />
+<img width="400" height="500" alt="WaterFallChart" src="https://github.com/user-attachments/assets/a86d27f6-91a3-468a-8c31-14d92a7056a6" /> <img width="457" height="318" alt="Table" src="https://github.com/user-attachments/assets/5c79b325-671f-4569-b1c2-2b1403d7e12f" />
 
 
 ---
