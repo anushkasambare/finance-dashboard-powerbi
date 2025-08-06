@@ -1,4 +1,4 @@
-Finance Dashboard (Power BI)
+# Finance Dashboard (Power BI)
 
 📊 Goal: Create an interactive finance dashboard that doesn't just show numbers — it helps people explore them, drill down, and truly *see* what matters.
 
